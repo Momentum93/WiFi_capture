@@ -1,0 +1,2 @@
+conda activate WiFi_Capture
+conda env update --file env.yml --prune
